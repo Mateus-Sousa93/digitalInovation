@@ -1,1 +1,1 @@
-# Aukas dos Bootcamps da digitalInovation.
+# Aulas dos Bootcamps da digitalInovation.
